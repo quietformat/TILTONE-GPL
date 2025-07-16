@@ -1,0 +1,24 @@
+# 빌드 결과물 / 캐시
+Binaries/
+Compiled/
+Builds/
+UserPresets/
+XmlPresetBackups/
+PooledResources/
+
+# 샘플 및 리소스
+Samples/
+AudioFiles/
+SampleMaps/
+Expansions/
+MidiFiles/
+
+# 개인 설정
+project_info.xml
+user_info.xml
+
+# 사용하지 않는 구조
+AdditionalSourceCode/
+Documentation/
+DspNetworks/
+Presets/
